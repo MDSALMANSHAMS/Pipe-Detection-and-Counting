@@ -1,0 +1,6 @@
+path: ../Package_detection/pipe_counting
+train: /Package_detection/pipe_counting/dataset/train/images
+val: /Package_detection/pipe_counting/dataset/val/images
+
+nc: 1
+names: ['pipe'] 
